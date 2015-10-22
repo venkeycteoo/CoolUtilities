@@ -1,0 +1,4 @@
+C:\CapacityModeler\FromOtherMac\ToMove\Source - ScreenChange\Source - ScreenChange\17-July\CapacityModeler_2010\CapacityModeler\GenericHelper\bin\Debug\GenericHelper.dll
+C:\CapacityModeler\FromOtherMac\ToMove\Source - ScreenChange\Source - ScreenChange\17-July\CapacityModeler_2010\CapacityModeler\GenericHelper\bin\Debug\GenericHelper.pdb
+C:\CapacityModeler\FromOtherMac\ToMove\Source - ScreenChange\Source - ScreenChange\17-July\CapacityModeler_2010\CapacityModeler\GenericHelper\obj\Debug\GenericHelper.dll
+C:\CapacityModeler\FromOtherMac\ToMove\Source - ScreenChange\Source - ScreenChange\17-July\CapacityModeler_2010\CapacityModeler\GenericHelper\obj\Debug\GenericHelper.pdb
